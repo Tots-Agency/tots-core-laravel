@@ -18,7 +18,7 @@ This version only includes 'SuccessResource' for reuse, so it doesn't need to be
 ```json 
 "require": {
     "php": "^8.1",
-    "laravel/framework": "^10.10",
+    "laravel/framework": "^11.31",
     "tots/core-laravel": "dev-main",
     ...
 },
